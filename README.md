@@ -16,6 +16,7 @@ Python 3.8 ~ 3.11（推荐3.10，MediaPipe兼容性最优）
 pip install opencv-python mediapipe pyautogui pynput
 ```
 #### 这个依赖有点大，三思而后行。
+<img width="331" height="410" alt="image" src="https://github.com/user-attachments/assets/4bb977db-da64-466c-be6b-31b7efc3511e" />
 
 ### 快速运行
 安装完依赖后执行
@@ -26,6 +27,7 @@ python f.py
 程序自动扫描并打开第一个可用摄像头，弹出预览窗口
 ### 手势操作
 1移动光标：伸出右手拇指、食指，两指分开，两指中心点映射屏幕鼠标位置
+
 2长按拖拽：右手拇指食指捏紧，持续捏合触发左键长按；松开手指自动释放左键
 ### 预览窗口快捷键
 按键  |   功能
